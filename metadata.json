@@ -1,0 +1,5 @@
+{
+  "name": "RetroPixel Sprite Gen",
+  "description": "Generate ultra-clean, strict 256x256 pixel art sprites for retro games using Gemini.",
+  "requestFramePermissions": []
+}
